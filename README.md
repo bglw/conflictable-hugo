@@ -7,9 +7,9 @@ Sendit is a polished, marketing website template for Hugo. Browse through a [liv
 
 [![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/sendit-hugo-template)
 
-## Features.
+## Features..
 
-* Pre-built pages
+* Pre-built pages..
 * Pre-styled components
 * Blog with pagination and category pages
 * Configurable navigation and footer
